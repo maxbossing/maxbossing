@@ -1,3 +1,1 @@
-My personal projects are located at [git.exobyte.dev](https://git.exobyte.dev/max)
-
-This account is work and stars only
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxbossing)](https://github.com/maxbossing)
