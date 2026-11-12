@@ -1,2 +1,3 @@
 > [!NOTE]  
-> My public repos have been moved to https://git.bossing.vip
+> My own code lives at https://git.bossing.vip.  
+> This is only for work
